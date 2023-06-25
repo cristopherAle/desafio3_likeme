@@ -1,5 +1,5 @@
 function Post({
-  post,
+  //post,
   post: { id, titulo, img, descripcion, likes },
   like,
   eliminarPost
